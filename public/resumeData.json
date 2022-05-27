@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name": "Manuel Bermudez",
+    "occupation": "System Engineering student",
+    "description": "I am very profesional with my work and I usually like to learn new ways to solve the problems better than I know. So, I am seeking for new challenges constantly.",
+    "image": "img.jpeg",
+    "bio": "I like to develope programs for a better life. The responsability and punctuality are very important for me while I am working (no matters if i'm alone or with a group of people). I am always thinking with visionary ideas that can be very useful for everyone. Also, I usually check the final release of the project before we send it because I  think that we should do the things as well as possible.",
+    "contactmessage": "",
+    "email": "mabermudez87952@umanizales.edu.co",
+    "phone": "(+57) 310-427-7990",
+    "address": {
+      "street": "Cra 10C",
+      "city": "Colombian",
+      "state": "(Manizales)",
+      "zip": "(10004)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=100043342365614",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/ManuelB724",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/manuel-alejandro-bermudez-giraldo-0992871b3/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/manuel_b724/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/mbermudez24",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Universidad de Manizales, Manizales, Caldas (Colombia)",
+        "degree": "Systems engineering and telecommunications",
+        "graduated": "February 2020 - present",
+        "description": ""
+      },
+      {
+        "school": "Gimnasio los Andes, Bogotá (Colombia)-     Gimnasio Campestre la Consolata, Manizales (Colombia)",
+        "degree": "Primary and secondary education ",
+        "graduated": "January 2008 - November 2019",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      },
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Angular",
+        "level": "30%"
+      },
+      {
+        "name": "React",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "95%"
+      },
+      {
+        "name": "Arduino",
+        "level": "40%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "60%"
+      },
+      {
+        "name": "Javascript",
+        "level": "70%"
+      },
+      {
+        "name": "Laravel",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Javascript Ex 11",
+        "category": "homework 11",
+        "image": "ex11.png",
+        "url": "https://mbermudez24.github.io/Tarea11_Prog/"
+      },
+      {
+        "title": "Ristorante con Fusion",
+        "category": "Website",
+        "image": "rs.png",
+        "url": "https://mbermudez24.github.io/Git-Test/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "We live in a society that is deeply dependent on science and technology and where nobody knows anything about these issues. This is a sure recipe for disaster.",
+        "user": "Carl Sagan"
+      },
+      {
+        "text": "If you decide to do only the things you know will work, you will leave a lot of opportunities on the table.",
+        "user": "Mark Zuckerberg"
+      }
+    ]
+  }
+}
